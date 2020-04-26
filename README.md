@@ -8,6 +8,9 @@ This repository provides CNN-based [PyTorch](https://pytorch.org/) examples to g
 
 1. [Simple CNN example](https://github.com/garg-aayush/Pytorch_Examples/blob/master/01_CNN_example.ipynb) : In this example, we build a 2-convolution layer network to classify the hand-written digits of the [MNIST](http://yann.lecun.com/exdb/mnist/)  dataset
 
+1. [ResNet example](https://github.com/garg-aayush/Pytorch_Examples/blob/master/02_CNN_ResNet.ipynb) : We build a residual neural network to show its implementation on the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset
+
+
 
 ### Helper examples
 
